@@ -20,7 +20,7 @@ require (
 	github.com/deckarep/golang-set/v2 v2.6.0
 	github.com/dhowden/tag v0.0.0-20240417053706-3d75831295e8
 	github.com/disintegration/imaging v1.6.2
-	github.com/djherbis/times v1.6.0
+	github.com/jing332/times v1.6.0
 	github.com/dlclark/regexp2 v1.10.0
 	github.com/dustinxie/ecc v0.0.0-20210511000915-959544187564
 	github.com/foxxorcat/mopan-sdk-go v0.1.6
