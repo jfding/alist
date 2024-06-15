@@ -3,6 +3,8 @@ name: release_android
 on:
   release:
     types: [ published ]
+  push:
+    branches: [ 'main' ]
 
 jobs:
   release_android:
